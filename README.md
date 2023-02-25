@@ -6,7 +6,8 @@ This is a simple to-do list application that allows users to add, edit, and dele
 
 Here are some screenshots of the application:
 
-![Screenshot (21)](https://user-images.githubusercontent.com/104237973/221332202-04ab2e52-323e-4230-8250-264b7ee1a940.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/104237973/221332672-2c13a82e-e1d8-495a-a231-c766a5461030.png)
+
 
 
 _This is a screenshot of the application when it is first loaded._
