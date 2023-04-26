@@ -9,7 +9,6 @@ Here are some screenshots of the application:
 ![Screenshot (22)](https://user-images.githubusercontent.com/104237973/221332672-2c13a82e-e1d8-495a-a231-c766a5461030.png)
 
 
-
 _This is a screenshot of the application when it is first loaded._
 
 ![portfolio-2](https://user-images.githubusercontent.com/104237973/221332104-cf8f4efc-690f-4729-aa05-3996c408a717.png)
